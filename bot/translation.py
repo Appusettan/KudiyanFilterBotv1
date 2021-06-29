@@ -10,7 +10,7 @@ class Translation(object):
 You Can't Add me to Your Group 
 
 For More Details Click Help Button Below..
-@⚔꧁༺⁣സിനിമ കോട്ട༻꧂⚔
+@https://t.me/joinchat/70yN4sj6cjhmMTA9
 </i>"""    
     
     HELP_TEXT = """
